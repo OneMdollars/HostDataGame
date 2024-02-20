@@ -2,4 +2,4 @@ SdkKeyBegin##{XwI5TUu1SJ4ILviRTsWlk4XWAgCI2hkac1f4WX6zsBFB4zdTq8IXDq3NVFgXyP6TQm
 bannerIdBegin##{9a8da160fd0366ea}##LastbannerId
 InterIdBegin##{8ed9bc79eb4c16f3}##LastInterId
 RewordIdBegin##{f230d143a512002f}##LastRewordId
-IsfreedBegin##{true}##LastIsfreed
+IsfreedBegin##{false}##LastIsfreed
