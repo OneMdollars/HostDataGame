@@ -3,3 +3,4 @@ bannerIdBegin##{9a8da160fd0366ea}##LastbannerId
 InterIdBegin##{8ed9bc79eb4c16f3}##LastInterId
 RewordIdBegin##{f230d143a512002f}##LastRewordId
 IsfreedBegin##{false}##LastIsfreed
+Url_RateBegin##{Urllll}##LastUrl_Rate
