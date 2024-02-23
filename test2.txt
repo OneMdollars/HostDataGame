@@ -8,3 +8,4 @@ InterIdBegin##{8b6433d06d3e302f}##LastInterId
 RewordIdBegin##{c3967bd3d919096a}##LastRewordId
 // reword apploving 
 IsfreedBegin##{false}##LastIsfreed
+Url_RateBegin##{Urllll}##LastUrl_Rate
